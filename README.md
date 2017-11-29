@@ -33,6 +33,6 @@ Orders for different instruments are kept in separate order books.
 * REST endpoints.
 * User interface/Web client.
 
-[1]: src/test
+[1]: src/test/java
 
 
